@@ -1,0 +1,22 @@
+body {
+    font-family: 'Segoe UI', Verdana, sans-serif
+    
+    
+}
+
+header {
+    padding-bottom: .75em;
+    border-bottom: 3px solid black;
+    margin-bottom: 0; 
+}
+
+h1 {
+    font-size: 200%;
+    margin-bottom: 0;
+    color: red;
+    text-shadow: 2px 2px #ff0000;
+}   
+
+img {
+    height:200px
+}
